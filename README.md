@@ -1,6 +1,6 @@
 # anysolv-publication-data
 
-Data behind the numbers in *AnySolv: An equivariant message-passing graph neural network for transferable implicit solvation* (A. Z. Ni and J. Lee). 
+Data behind the numbers in *Solvating machine-learning interatomic potentials for solution-phase chemistry* (A. Z. Ni and J. Lee). 
 
 ## Related resources
 
