@@ -14,6 +14,10 @@ Data behind the numbers in *AnySolv: An equivariant message-passing graph neural
 
 Every `reproduce_*.py` needs only Python 3 with numpy and pandas, reads its files relative to its own location, and can be run from any directory, e.g. `python snar/reproduce_snar.py`. `alanine_metadynamics/run_md.py` additionally needs `anysolv`, `fairchem-core`, `ase`, and PLUMED (see that folder's README).
 
+## License
+
+The scripts (`*.py`) are licensed under the [MIT License](LICENSE-CODE); all other files are licensed under [CC BY 4.0](LICENSE).
+
 ## AI Use
 
 Portions of the code in this repository were generated with the assistance of AI-based coding tools. All numerical values reported in the associated manuscript have been independently checked and verified by the authors.
